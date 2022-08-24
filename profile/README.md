@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://example.com#gh-dark-mode-only" target="_blank">
-        <img width="300" src="https://via.placeholder.com/300" alt="Logo">
+        <img width="300" src="/img/logo.png" alt="Logo">
     </a>
     <a href="https://example.com#gh-light-mode-only" target="_blank">
         <img width="300" src="https://via.placeholder.com/300" alt="Logo">
@@ -8,13 +8,7 @@
 </p>
 
 <h3 align="center">
-    <a href="https://example.com#gh-dark-mode-only" target="_blank">
-        <img src="https://via.placeholder.com/15" height="15" alt="Logo">
-    </a>
-    <a href="https://example.com#gh-light-mode-only" target="_blank">
-        <img src="https://via.placeholder.com/15" height="15" alt="Logo">
-    </a>
-    is a free and open-source smart contract <br> management system.
+    SouperOS is a free and open-source smart contract <br> management system.
 </h3>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Launch quicker.</h3>
