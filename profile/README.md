@@ -16,15 +16,15 @@
 <br>
 
 <p align="center">
-    <a href="https://www.example.com/company/xxx/"><img height="20" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://www.example.com/"><img height="20" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://example.com/xxx"><img height="20" src="/img/social/twitter.svg" alt="Twitter"></a>
+    <a href="https://example.com/"><img height="20" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
     <a href="https://www.example.com/channel/xxx"><img height="20" src="/img/social/youtube.svg" alt="Youtube"></a>
     &nbsp;
-    <a href="https://example/surrealdb"><img height="20" src="/img/social/dev.svg" alt="Dev"></a>
+    <a href="https://example.com/"><img height="20" src="/img/social/dev.svg" alt="Dev"></a>
     &nbsp;
-    <a href="https://example.com/discord"><img height="20" src="/img/social/discord.svg" alt="Discord"></a>
+    <a href="https://example.com/"><img height="20" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
-    <a href="https://example.com/questions/tagged/xxx"><img height="20" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
+    <a href="https://example.com/"><img height="20" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
 </p>
