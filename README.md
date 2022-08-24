@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
+    <a href="https://example.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="https://via.placeholder.com/300" alt="XXX Logo">
     </a>
-    <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
+    <a href="https://example.com#gh-light-mode-only" target="_blank">
         <img width="300" src="https://via.placeholder.com/300" alt="XXX Logo">
     </a>
 </p>
