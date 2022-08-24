@@ -1,18 +1,18 @@
 <p align="center">
     <a href="https://example.com#gh-dark-mode-only" target="_blank">
-        <img width="300" src="https://via.placeholder.com/300" alt="XXX Logo">
+        <img width="300" src="https://via.placeholder.com/300" alt="Logo">
     </a>
     <a href="https://example.com#gh-light-mode-only" target="_blank">
-        <img width="300" src="https://via.placeholder.com/300" alt="XXX Logo">
+        <img width="300" src="https://via.placeholder.com/300" alt="Logo">
     </a>
 </p>
 
 <h3 align="center">
     <a href="https://example.com#gh-dark-mode-only" target="_blank">
-        <img src="https://via.placeholder.com/15" height="15" alt="XXX">
+        <img src="https://via.placeholder.com/15" height="15" alt="Logo">
     </a>
     <a href="https://example.com#gh-light-mode-only" target="_blank">
-        <img src="https://via.placeholder.com/15" height="15" alt="XXX">
+        <img src="https://via.placeholder.com/15" height="15" alt="Logo">
     </a>
     is a free and open-source smart contract <br> management system.
 </h3>
