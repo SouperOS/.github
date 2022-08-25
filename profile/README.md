@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://example.com" target="_blank">
-        <img width="300" src="/img/cover_2.png" alt="Logo">
+        <img width="550" src="/img/cover_2.png" alt="Logo">
     </a>
 </p>
 
