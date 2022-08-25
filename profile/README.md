@@ -1,9 +1,6 @@
 <p align="center">
-    <a href="https://example.com#gh-dark-mode-only" target="_blank">
-        <img width="300" src="/img/logo.png" alt="Logo">
-    </a>
-    <a href="https://example.com#gh-light-mode-only" target="_blank">
-        <img width="300" src="https://via.placeholder.com/300" alt="Logo">
+    <a href="https://example.com" target="_blank">
+        <img width="300" src="/img/cover_2.png" alt="Logo">
     </a>
 </p>
 
