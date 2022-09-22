@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-    SouperOS is a free and open-source smart contract <br> management system.
+    useAssembly is a free and open-source smart contract <br> management system.
 </h3>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Launch quicker.</h3>
