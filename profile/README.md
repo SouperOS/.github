@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-    useAssembly is a free and open-source smart contract <br> management system.
+    useAssembly is a free and open-source assembly of <br> WEB3 toolkit management system.
 </h3>
 
 <h3 align="center">Develop easier. &nbsp; Build faster. &nbsp; Launch quicker.</h3>
