@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://example.com" target="_blank">
-        <img width="550" src="/img/cover_2.png" alt="Logo">
+    <a href="https://useAssembly.xyz" target="_blank">
+        <img width="550" src="https://raw.githubusercontent.com/useAssembly/.github/main/img/cover_2.png" alt="Logo">
     </a>
 </p>
 
@@ -13,15 +13,8 @@
 <br>
 
 <p align="center">
-    <a href="https://www.example.com/"><img height="20" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://useassembly.xyz"><img height="20" src="https://raw.githubusercontent.com/useAssembly/.github/67a257361f0022c0b27c1c4a0237a6672ec67c2e/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
-    <a href="https://example.com/"><img height="20" src="/img/social/twitter.svg" alt="Twitter"></a>
+    <a href="https://useassembly.xyz"><img height="20" src="https://raw.githubusercontent.com/useAssembly/.github/67a257361f0022c0b27c1c4a0237a6672ec67c2e/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
-    <a href="https://www.example.com/channel/xxx"><img height="20" src="/img/social/youtube.svg" alt="Youtube"></a>
-    &nbsp;
-    <a href="https://example.com/"><img height="20" src="/img/social/dev.svg" alt="Dev"></a>
-    &nbsp;
-    <a href="https://example.com/"><img height="20" src="/img/social/discord.svg" alt="Discord"></a>
-    &nbsp;
-    <a href="https://example.com/"><img height="20" src="/img/social/stack-overflow.svg" alt="StackOverflow"></a>
 </p>
